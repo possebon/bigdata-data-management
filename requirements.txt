@@ -8,3 +8,4 @@ six==1.15.0
 geopandas
 plotly
 plotly-geo
+urllib2
